@@ -1,0 +1,3 @@
+programm programming case 
+drop table drop
+habrahabr skillbox
